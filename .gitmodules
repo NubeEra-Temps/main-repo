@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://oauth: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@github.com/NubeEra-Temps/submodule-repo.git
